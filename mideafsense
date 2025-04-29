@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MI DEAF SENSE</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f9f9f9; color: #333; }
+    header, footer { background: #002244; color: white; padding: 1rem; text-align: center; }
+    nav a { margin: 0 1rem; color: white; text-decoration: none; }
+    main { padding: 2rem; }
+    section { margin-bottom: 2rem; }
+    h1, h2 { color: #002244; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>MI DEAF SENSE</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#services">Services</a>
+      <a href="#sasl">SASL</a>
+      <a href="#insurance">Insurance</a>
+      <a href="#partners">Partners</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>About Us</h2>
+      <p><strong>MI DEAF SENSE</strong> is built on Psalm 127:1: “Unless the Lord builds the house, the builders labor in vain.” Our mission is to empower the Deaf community with services rooted in faith, integrity, and compassion.</p>
+      <p>We are led by a passionate team committed to inclusion, empowerment, and innovation.</p>
+    </section>
+
+    <section id="services">
+      <h2>Our Services</h2>
+      <ul>
+        <li>SASL Education (Basic, Intermediate, Advanced)</li>
+        <li>Insurance Solutions (Funeral, Life, Medical Gap, Disability)</li>
+        <li>Financial Literacy Programs</li>
+        <li>Community Upliftment & Mentoring</li>
+      </ul>
+    </section>
+
+    <section id="sasl">
+      <h2>SASL Education</h2>
+      <p>Our accredited courses teach South African Sign Language in a progressive and accessible way. Designed for both Deaf and hearing people, our offerings ensure full inclusion and comprehension.</p>
+    </section>
+
+    <section id="insurance">
+      <h2>Insurance Solutions</h2>
+      <p>We provide Deaf-friendly insurance explained in SASL, including funeral, life, medical gap cover, and disability income protection, ensuring every person is informed and protected.</p>
+    </section>
+
+    <section id="partners">
+      <h2>Our Partners</h2>
+      <p>We proudly collaborate with:</p>
+      <ul>
+        <li>RMA (Insurance)</li>
+        <li>Virecom (IT & Communication)</li>
+        <li>SASL Practitioners Agency</li>
+        <li>PanSALB (Language Promotion)</li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p>We welcome your questions and connections.</p>
+      <p><strong>Phone:</strong> [Insert Number]</p>
+      <p><strong>Email:</strong> [Insert Email]</p>
+      <p><strong>Location:</strong> [Insert Physical Address]</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 MI DEAF SENSE | Built on Psalm 127:1</p>
+  </footer>
+</body>
+</html>
